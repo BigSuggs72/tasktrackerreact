@@ -14,9 +14,9 @@
       "id": 3
     },
     {
-      "text": "Task6",
-      "day": "Thursday",
-      "reminder": true,
+      "text": "Are you serious?",
+      "day": "Friday/3pm",
+      "reminder": "false",
       "id": 4
     }
   ]
